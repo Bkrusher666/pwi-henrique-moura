@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>não tenho a minima ideia</h1>
+<h2>quantas letras tem o seu nome?</h2>
+
+<p>seu nome tem essa quantidade de letras:</p>
+<p id="demo"></p>
+
+<script>
+let text = "Henrique Moura de Oliveira";
+document.getElementById("demo").innerHTML = text.length;
+</script>
+
+</body>
+</html>
+
+

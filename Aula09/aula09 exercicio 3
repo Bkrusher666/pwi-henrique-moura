@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>O NUMERO</h2>
+<p>QUE VAI SALVAR O BRASIL</p>
+
+<button type="button" onclick="document.write(7 + 6)">Aperte</button>
+
+</body>
+</html> 
