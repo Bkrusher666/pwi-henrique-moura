@@ -1,0 +1,5 @@
+function calculaMedia (nomeAluno, nota1, nota2, nota3){ 
+    let resultado = (nota1+nota2+nota3)/3
+    return console.log('A nota do aluno ', nomeAluno, 'é: ', result)
+    }
+    
